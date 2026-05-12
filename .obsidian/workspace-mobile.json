@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NARRATIVE PROJECT/Narrative Project -- Overview.md",
+                "file": "LOST WOODS/Systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Narrative Project -- Overview"
+              "title": "Systems"
             }
           }
         ],
@@ -98,6 +98,20 @@
           "state": {},
           "icon": "lucide-bookmark",
           "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "4ac0cbc1aa7dcb6b",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
         }
       }
     ],
@@ -182,9 +196,9 @@
   },
   "active": "232e5eb1523dce89",
   "lastOpenFiles": [
+    "NARRATIVE PROJECT/Narrative Project -- Overview.md",
     "LOST WOODS/Systems.md",
     "LOST WOODS/Lost Woods -- Overview.md",
-    "NARRATIVE PROJECT/Narrative Project -- Overview.md",
     "NARRATIVE PROJECT",
     "LOST WOODS"
   ]
