@@ -1,6 +1,7 @@
 #NarrativeProject
 
 The main objects that I am aware are 
+
 - characters
 - the world
 - the player
