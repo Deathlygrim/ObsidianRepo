@@ -195,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 317.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,7 +210,7 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "6a2aae4ac839102d",
+  "active": "2b431b6a11593d61",
   "lastOpenFiles": [
     "Excel 2026-06-14 19.34.58.univer.md",
     "FOREST OVERGROWTH/Untitled.md",
