@@ -11,12 +11,14 @@
             "id": "58dbd632da3ca797",
             "type": "leaf",
             "state": {
-              "type": "excel-pro-view",
+              "type": "markdown",
               "state": {
-                "file": "FOREST OVERGROWTH/Excel 2026-06-14 19.34.58.univer.md"
+                "file": "FOREST OVERGROWTH/Game System Component Chart.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Excel 2026-06-14 19.34.58.univer"
+              "title": "Game System Component Chart"
             }
           }
         ]
@@ -193,13 +195,13 @@
       "sheet-plus:Excel-Datei erstellen": false
     }
   },
-  "active": "58dbd632da3ca797",
+  "active": "2b431b6a11593d61",
   "lastOpenFiles": [
     "FOREST OVERGROWTH/Excel 2026-06-14 19.34.58.univer.md",
     "FOREST OVERGROWTH/Plant Concepts.md",
     "LOST WOODS/Lost Woods -- Overview.md",
     "LOST WOODS/Systems.md",
-    "FOREST OVERGROWTH/Untitled.md",
+    "FOREST OVERGROWTH/Game System Component Chart.md",
     "LostWoods.md",
     "NARRATIVE PROJECT/Narrative Project -- Overview.md",
     "NARRATIVE PROJECT",
